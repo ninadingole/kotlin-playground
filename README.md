@@ -7,4 +7,5 @@ Also some high end stuff like building API, Kafka Consumers, 🧠 something some
 
 ## Learning Plan
 
-[ ] Kotlin Basics
+- [ ] Kotlin Basics
+- [ ] Kotlin CoRoutines
